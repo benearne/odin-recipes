@@ -1,0 +1,28 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.8;
+}
+
+h1 {
+    color: blue;
+    background-color:rgb(31, 54, 74)e;
+}
+
+h2 {
+    color: red;
+    text-align: center;
+    
+}
+
+.Ingredients {
+    list-style-type: square;
+}
+
+.Steps {
+    list-style-type: upper-roman;
+}
+
+li {
+    color: beige;
+    background-color: rgb(80, 80, 80);
+}
